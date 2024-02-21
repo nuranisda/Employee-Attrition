@@ -26,13 +26,12 @@ Overall Steps:
     - Decision Tree
     - Random Forest
     - Tuning the Decision Tree model
-- Evaluation using Recall Metric: because the data is IMBALANCE
-  -  Evaluating the ML algorithms:
-    - Logistic Regression
-    - K-Nearest Neighbor (KNN)
-    - Decision Tree
-    - Random Forest
-    - Tuning the Decision Tree model
+- Evaluation the ML algorithms using Recall Metric: because the data is IMBALANCE
+  - Logistic Regression
+  - K-Nearest Neighbor (KNN)
+  - Decision Tree
+  - Random Forest
+  - Tuning the Decision Tree model
 
 
 Thank You in Advance!
